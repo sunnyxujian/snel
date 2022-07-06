@@ -1,12 +1,13 @@
 # snell
 
-> snell: adj.敏捷的；精明的；厉害的；锐利的
+> **snell**: /snɛl/, 意为敏捷的；精明的；厉害的；锐利的
 
 **基于element，快速构建界面的ui库，她再也不会苦苦等我下班了**
 
+
 ## 工程化思路
 
-- [ ] 使用monorepo管理各个子模块，增加changelog
+- [ ] 使用pnpm创建monorepo管理各个子模块
 
 - [ ] 使用rollup打包项目，做好treeshaking，支持css和js单独引用，排除vue和element-ui
 

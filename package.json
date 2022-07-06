@@ -1,0 +1,28 @@
+{
+  "name": "snell-ui",
+  "version": "0.0.1",
+  "description": "UI framework,fast and easy create page.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnyxujian/snell.git"
+  },
+  "keywords": [
+    "vue",
+    "ui framework",
+    "fast",
+    "easy"
+  ],
+  "author": "sunnyxujian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunnyxujian/snell/issues"
+  },
+  "homepage": "https://github.com/sunnyxujian/snell#readme",
+  "dependencies": {
+    "vue": "2.6.14"
+  }
+}
